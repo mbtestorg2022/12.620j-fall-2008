@@ -5,6 +5,7 @@ description: 'This is a description of the Scmutils system, an integrated librar
   teaching and research in mathematical physics and electrical engineering. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/5e2643fd5906b83790a1cfe9e3c835f9_MIT12_620Jf08_study03.pdf
 file_type: application/pdf
+parent_uid: d171c24f-2b40-d1b4-f66a-c7522f502ed7
 resourcetype: Document
 title: SCMUTILS Reference Manual
 uid: 5e2643fd-5906-b837-90a1-cfe9e3c835f9
